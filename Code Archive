@@ -1,0 +1,15 @@
+
+
+h1: Header tag, makes the text large and puts it on a separate line.
+    Good for making titles or headings.
+	
+	attributes: none
+	
+	example: <h1> Hello Reader <h1>
+	
+h6: Header tag,like h1 but the text is smaller. There are header tags 
+	from h1 to h6,h6 is the smallest. Good for subheadings. 
+	
+	attributes: none
+	
+	example: <h6>Hello Reader<h6>
