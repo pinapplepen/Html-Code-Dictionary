@@ -1,15 +1,57 @@
-
+a: Used to define a hyperlink. (linking one page to another)
+	
+	attributes: href attribute 
+	
+	example: <a href="https://en.wikipedia.org/wiki/Pikachu">
 
 h1: Header tag, makes the text large and puts it on a separate line.
     Good for making titles or headings.
 	
 	attributes: none
 	
-	example: <h1> Hello Reader <h1>
+	example: <h1> Hello Reader </h1>
 	
 h6: Header tag,like h1 but the text is smaller. There are header tags 
 	from h1 to h6,h6 is the smallest. Good for subheadings. 
 	
 	attributes: none
 	
-	example: <h6>Hello Reader<h6>
+	example: <h6>Hello Reader</h6>
+	
+img: Makes the image file into a real image. 
+	
+	attributes: none
+	
+	example: <img src="pikachu.JFIF"> 
+
+li: Used for each individual point on a list. 
+
+	attributes: none 
+	
+	example: see ul example
+	
+ol: Used to make the text in between a number list. Use li for every list item.
+
+	attributes: none
+	
+	examples: see ul example
+
+p: The thing used for a paragraph, it organizes it by giving it its own line. 
+	
+	attributes: none
+	
+	example: <p> Hello Reader </p>
+	
+ul: Used to make the text in between a dot list. Use li for every list item. 
+
+	attributes: none
+	
+	example: <ul>
+			 <li> Hello Reader </li>
+			 <li> Hi guys </li>
+			 <li> Good morning</li>
+			 </ul>
+
+
+
+
