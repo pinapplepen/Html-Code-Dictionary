@@ -3,6 +3,18 @@ a: Used to define a hyperlink. (linking one page to another)
 	attributes: href attribute 
 	
 	example: <a href="https://en.wikipedia.org/wiki/Pikachu">
+	
+body: Contains and compresses all the code.
+
+	attributes: ?
+	
+	example: <body> This is my main paragraph </body>
+	
+!DocType: Uses the most up to date code.
+
+	attributes: ?
+	
+	example: <!DocType html> 
 
 h1: Header tag, makes the text large and puts it on a separate line.
     Good for making titles or headings.
@@ -17,6 +29,18 @@ h6: Header tag,like h1 but the text is smaller. There are header tags
 	attributes: none
 	
 	example: <h6>Hello Reader</h6>
+	
+head: Names the web broser tab.
+
+	attributes: ?
+	
+	example: <head> My first Website </head>
+	
+html: makes the type of document to be into html.
+
+	attributes:?
+	
+	example: <html> <body> code this and that basically everything except doctype </html> 
 	
 img: Makes the image file into a real image. 
 	
